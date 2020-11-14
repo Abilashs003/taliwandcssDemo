@@ -1,0 +1,24 @@
+{
+  "name": "taliwandcssDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abilashs003/taliwandcssDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abilashs003/taliwandcssDemo/issues"
+  },
+  "homepage": "https://github.com/Abilashs003/taliwandcssDemo#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
